@@ -1,0 +1,9 @@
+{
+  "name": "nfepdf",
+  "packageManager": "yarn@3.5.0",
+  "dependencies": {
+    "pdf2json": "^3.0.4",
+    "pdfjs-dist": "^3.9.179"
+  },
+  "type": "module" 
+}
